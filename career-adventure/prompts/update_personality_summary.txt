@@ -1,0 +1,22 @@
+Update the personality summary for {student_name} based on their recent choice.
+
+CURRENT PERSONALITY:
+{current_personality}
+
+RECENT CHOICE:
+{choice_description}
+
+CHARACTER DEVELOPMENT:
+{character_implication}
+
+RECENT CHOICE PATTERN:
+{recent_choices}
+
+Write a brief, coherent personality summary that:
+- Reflects their character development from this choice
+- Integrates with their previous personality traits
+- Shows growth and change over time
+- Remains consistent with their choices
+- Uses 2-3 sentences maximum
+
+UPDATED PERSONALITY SUMMARY:

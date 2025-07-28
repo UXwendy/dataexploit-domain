@@ -1,0 +1,23 @@
+**Conversation Context:**
+{context_summary}
+
+**Current Query:** "{query}"
+
+**Context-Aware Planning Instructions:**
+Use the available research tools to answer this query, taking conversation history into account.
+
+🧠 Reference Resolution:
+- "them", "those", "these" → Identify what they refer to in past messages
+- "the 3rd one", "number 5" → Reference specific indexed items from prior results  
+- "more", "additional", "all" → Consider whether previous tools returned full results or partial due to limits
+
+📌 Planning Reminders:
+- If user asks for “more”, use the **offset** parameter to paginate
+- If user asks for “all” or refers to many results (>20), switch to:
+  - `get_field_statistics` for distributions
+  - `count_entities` for counts
+
+✅ Always use:
+- `search_by_author(max_results=20)` or `search_publications(max_results=15)` when querying again
+- Honest messaging when results are partial
+- Aggregation tools for statistical or large-scale follow-ups

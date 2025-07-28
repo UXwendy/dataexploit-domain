@@ -1,0 +1,16 @@
+**Research Context:**
+Original query: {original_query}
+
+**Current Plan:**
+{plan_str}
+
+**Current Task:** {task}
+
+**Instructions:**
+Execute this step using the appropriate research tools. Consider:
+- Use exact author names for search_by_author queries
+- Include pagination strategy for large result sets
+- Use max_results=15 for search_publications and max_results=20 for search_by_author
+- Provide specific statistics and counts when available
+- Format results clearly for easy analysis
+- If total hits exceed results shown, indicate this clearly and suggest pagination or statistical tools
