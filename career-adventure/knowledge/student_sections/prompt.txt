@@ -1,0 +1,109 @@
+# Chalmers Student Section Profile Creation Prompt
+
+You are tasked with creating a comprehensive student section profile for a Chalmers University of Technology student section. You will be provided with source documents containing information about the section.
+
+## Your Task
+Create a student section profile following the exact structure and style demonstrated in the Data section reference example. The profile should be formatted as a markdown artifact titled "[Section Name] Section Activities - AI Reference Guide"
+
+## Required Structure
+Follow this exact structure and format:
+
+```
+[Section Name] Section Activities - AI Reference Guide
+
+Section Identity
+[Section uniform/colors, mascot/patron saint, section culture and focus]
+
+Section Committees
+[List all committees with their roles and activities in this format:]
+
+Committee Name (Role/Description)
+Brief description of what they do, their activities, and any notable characteristics like uniform colors or special traditions.
+
+Major Section Events
+[List major annual events, receptions, competitions, and traditional celebrations]
+
+Section Traditions
+[Include unique traditions, sports, cultural practices, and customs specific to this section]
+
+[Section Common Room/Pub] Culture
+[Description of the section's main gathering place, facilities, and social hub]
+
+Academic Culture
+[How the section balances academic work with social life and traditions]
+
+Section Relationships
+[Relationships with other sections, shared activities, competitions, and alumni network]
+
+Section Support
+[Support systems available to students, mentorship, and guidance]
+```
+
+## Content Requirements
+
+### Focus ONLY on Student Section Activities
+**EXCLUDE:**
+- Academic program curricula or course descriptions
+- Career prospects or industry information
+- Educational development trends
+- Technical program details
+- Future job market analysis
+
+**INCLUDE:**
+- Committee structures and specific activities
+- Social events, parties, and celebrations
+- Section identity (colors, mascot, uniform, culture)
+- Student-run facilities and services
+- Cultural practices, traditions, and customs
+- Peer support systems and mentorship programs
+- Inter-section relationships and competitions
+
+## Style and Format Guidelines
+
+1. **Format**: Use markdown formatting with clear section headers
+2. **Tone**: Informative yet engaging, matching the style of student handbooks
+3. **Length**: Comprehensive but concise - similar length to reference examples
+4. **Detail Level**: Include specific traditions, committee roles, and unique cultural elements
+5. **Organization**: Follow the exact structure provided, maintaining consistent formatting
+
+## Research Instructions
+
+**When additional information is needed:**
+1. **Primary Focus Areas:**
+   - Committee names, roles, and specific activities
+   - Traditional events and annual celebrations
+   - Section colors, mascot, and cultural identity
+   - Student facilities (common rooms, pubs, etc.)
+   - Unique traditions and customs
+   - Support systems and mentorship structures
+
+2. **Research Strategy:**
+   - Search for student life and section culture information
+   - Look for committee descriptions and activities
+   - Find information about traditions and events
+   - Avoid academic/curriculum content
+   - Ensure information is current and accurate
+
+3. **Search Terms to Use:**
+   - "[Section name] Chalmers student culture"
+   - "[Section name] section committees activities"
+   - "[Section name] traditions events Chalmers"
+   - "Chalmers [section] common room facilities"
+
+## Quality Checklist
+
+Before finalizing, ensure the profile includes:
+- [ ] Clear section identity (colors, mascot, culture)
+- [ ] Detailed committee descriptions with specific activities
+- [ ] Major events and traditional celebrations
+- [ ] Unique cultural practices and traditions
+- [ ] Description of main gathering spaces
+- [ ] Academic-social balance information
+- [ ] Inter-section relationships
+- [ ] Student support systems
+
+## Output Format
+Provide the final document as a txt artifact with the title "[Section Name] Section Activities - AI Reference Guide"
+
+## Example Reference
+Use the provided Data section profile as your style and format reference, ensuring the same level of detail and organization while adapting content to the specific section being profiled.

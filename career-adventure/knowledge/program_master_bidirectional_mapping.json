@@ -1,0 +1,530 @@
+{
+  "programs_to_masters": {
+    "TKATK": [
+      "MPARC",
+      "MPBDP",
+      "MPCAS",
+      "MPDCM",
+      "MPDSC",
+      "MPDSD",
+      "MPENM",
+      "MPLOL",
+      "MPSEB",
+      "MPSOV",
+      "MPTSE"
+    ],
+    "TKAUT": [
+      "MPALG",
+      "MPAME",
+      "MPBDP",
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPEES",
+      "MPENM",
+      "MPEPO",
+      "MPHPC",
+      "MPICT",
+      "MPLOL",
+      "MPMED",
+      "MPMEI",
+      "MPMOB",
+      "MPPDE",
+      "MPPEN",
+      "MPQOM",
+      "MPSCM",
+      "MPSES",
+      "MPSYS",
+      "MPTSE"
+    ],
+    "TKBIO": [
+      "MPBDP",
+      "MPBIO",
+      "MPCAS",
+      "MPENM",
+      "MPISC",
+      "MPLOL",
+      "MPMCN",
+      "MPMED",
+      "MPNAT",
+      "MPTSE"
+    ],
+    "TKDAT": [
+      "MPALG",
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPEES",
+      "MPENM",
+      "MPHPC",
+      "MPICT",
+      "MPIDE",
+      "MPLOL",
+      "MPMED",
+      "MPSOF",
+      "MPSYS"
+    ],
+    "TKDES": [
+      "MPBDP",
+      "MPDES",
+      "MPIDE",
+      "MPLOL",
+      "MPPDE",
+      "MPQOM",
+      "MPTSE"
+    ],
+    "TKELT": [
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPEES",
+      "MPEPO",
+      "MPHPC",
+      "MPICT",
+      "MPMED",
+      "MPNAT",
+      "MPSOV",
+      "MPSYS",
+      "MPTSE",
+      "MPWPS"
+    ],
+    "TKGBS": [
+      "MPALG",
+      "MPBDP",
+      "MPCAS",
+      "MPDSC",
+      "MPENM",
+      "MPEPO",
+      "MPIEE",
+      "MPLOL",
+      "MPMEI",
+      "MPPHS",
+      "MPSES",
+      "MPTSE",
+      "MPWPS"
+    ],
+    "TKIEK": [
+      "MPBDP",
+      "MPDCM",
+      "MPDSC",
+      "MPMEI",
+      "MPPDE",
+      "MPPEN",
+      "MPQOM",
+      "MPSCM",
+      "MPSOF",
+      "MPTSE"
+    ],
+    "TKITE": [
+      "MPALG",
+      "MPBDP",
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPENM",
+      "MPHPC",
+      "MPIDE",
+      "MPLOL",
+      "MPMEI",
+      "MPSOF",
+      "MPTSE"
+    ],
+    "TKKEF": [
+      "MPAME",
+      "MPCAS",
+      "MPENM",
+      "MPISC",
+      "MPLOL",
+      "MPMCN",
+      "MPNAT",
+      "MPPHS",
+      "MPSES",
+      "MPSYS",
+      "MPTSE"
+    ],
+    "TKKMT": [
+      "MPBIO",
+      "MPENM",
+      "MPISC",
+      "MPLOL",
+      "MPMCN",
+      "MPNAT",
+      "MPSES",
+      "MPSYS",
+      "MPTSE"
+    ],
+    "TKMAS": [
+      "MPAEM",
+      "MPAME",
+      "MPBDP",
+      "MPCAS",
+      "MPDSC",
+      "MPENM",
+      "MPLOL",
+      "MPMED",
+      "MPMOB",
+      "MPPDE",
+      "MPPEN",
+      "MPQOM",
+      "MPSCM",
+      "MPSES",
+      "MPSOV",
+      "MPSYS",
+      "MPTSE"
+    ],
+    "TKMED": [
+      "MPBDP",
+      "MPCAS",
+      "MPDSC",
+      "MPENM",
+      "MPICT",
+      "MPIDE",
+      "MPLOL",
+      "MPMED",
+      "MPSYS"
+    ],
+    "TKSAM": [
+      "MPDCM",
+      "MPENM",
+      "MPIEE",
+      "MPLOL",
+      "MPSEB",
+      "MPSOV",
+      "MPTSE"
+    ],
+    "TKTEM": [
+      "MPALG",
+      "MPAME",
+      "MPBDP",
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPENM",
+      "MPHPC",
+      "MPICT",
+      "MPLOL",
+      "MPMED",
+      "MPMEI",
+      "MPMOB",
+      "MPPHS",
+      "MPQOM",
+      "MPSES",
+      "MPSOV",
+      "MPSYS",
+      "MPTSE",
+      "MPWPS"
+    ],
+    "TKTFY": [
+      "MPAEM",
+      "MPALG",
+      "MPAME",
+      "MPBDP",
+      "MPCAS",
+      "MPCSN",
+      "MPDSC",
+      "MPEES",
+      "MPENM",
+      "MPEPO",
+      "MPHPC",
+      "MPICT",
+      "MPLOL",
+      "MPMOB",
+      "MPNAT",
+      "MPPHS",
+      "MPSES",
+      "MPSOV",
+      "MPSYS",
+      "MPTSE",
+      "MPWPS"
+    ]
+  },
+  "masters_to_programs": {
+    "MPARC": [
+      "TKATK"
+    ],
+    "MPBDP": [
+      "TKATK",
+      "TKAUT",
+      "TKBIO",
+      "TKDES",
+      "TKGBS",
+      "TKIEK",
+      "TKITE",
+      "TKMAS",
+      "TKMED",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPCAS": [
+      "TKATK",
+      "TKAUT",
+      "TKBIO",
+      "TKDAT",
+      "TKELT",
+      "TKGBS",
+      "TKITE",
+      "TKKEF",
+      "TKMAS",
+      "TKMED",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPDCM": [
+      "TKATK",
+      "TKIEK",
+      "TKSAM"
+    ],
+    "MPDSC": [
+      "TKATK",
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKGBS",
+      "TKIEK",
+      "TKITE",
+      "TKMAS",
+      "TKMED",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPDSD": [
+      "TKATK"
+    ],
+    "MPENM": [
+      "TKATK",
+      "TKAUT",
+      "TKBIO",
+      "TKDAT",
+      "TKGBS",
+      "TKITE",
+      "TKKEF",
+      "TKKMT",
+      "TKMAS",
+      "TKMED",
+      "TKSAM",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPLOL": [
+      "TKATK",
+      "TKAUT",
+      "TKBIO",
+      "TKDAT",
+      "TKDES",
+      "TKGBS",
+      "TKITE",
+      "TKKEF",
+      "TKKMT",
+      "TKMAS",
+      "TKMED",
+      "TKSAM",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPSEB": [
+      "TKATK",
+      "TKSAM"
+    ],
+    "MPSOV": [
+      "TKATK",
+      "TKELT",
+      "TKMAS",
+      "TKSAM",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPTSE": [
+      "TKATK",
+      "TKAUT",
+      "TKBIO",
+      "TKDES",
+      "TKELT",
+      "TKGBS",
+      "TKIEK",
+      "TKITE",
+      "TKKEF",
+      "TKKMT",
+      "TKMAS",
+      "TKSAM",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPALG": [
+      "TKAUT",
+      "TKDAT",
+      "TKGBS",
+      "TKITE",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPAME": [
+      "TKAUT",
+      "TKKEF",
+      "TKMAS",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPCSN": [
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKITE",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPEES": [
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKTFY"
+    ],
+    "MPEPO": [
+      "TKAUT",
+      "TKELT",
+      "TKGBS",
+      "TKTFY"
+    ],
+    "MPHPC": [
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKITE",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPICT": [
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKMED",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPMED": [
+      "TKAUT",
+      "TKBIO",
+      "TKDAT",
+      "TKELT",
+      "TKMAS",
+      "TKMED",
+      "TKTEM"
+    ],
+    "MPMEI": [
+      "TKAUT",
+      "TKGBS",
+      "TKIEK",
+      "TKITE",
+      "TKTEM"
+    ],
+    "MPMOB": [
+      "TKAUT",
+      "TKMAS",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPPDE": [
+      "TKAUT",
+      "TKDES",
+      "TKIEK",
+      "TKMAS"
+    ],
+    "MPPEN": [
+      "TKAUT",
+      "TKIEK",
+      "TKMAS"
+    ],
+    "MPQOM": [
+      "TKAUT",
+      "TKDES",
+      "TKIEK",
+      "TKMAS",
+      "TKTEM"
+    ],
+    "MPSCM": [
+      "TKAUT",
+      "TKIEK",
+      "TKMAS"
+    ],
+    "MPSES": [
+      "TKAUT",
+      "TKGBS",
+      "TKKEF",
+      "TKKMT",
+      "TKMAS",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPSYS": [
+      "TKAUT",
+      "TKDAT",
+      "TKELT",
+      "TKKEF",
+      "TKKMT",
+      "TKMAS",
+      "TKMED",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPBIO": [
+      "TKBIO",
+      "TKKMT"
+    ],
+    "MPISC": [
+      "TKBIO",
+      "TKKEF",
+      "TKKMT"
+    ],
+    "MPMCN": [
+      "TKBIO",
+      "TKKEF",
+      "TKKMT"
+    ],
+    "MPNAT": [
+      "TKBIO",
+      "TKELT",
+      "TKKEF",
+      "TKKMT",
+      "TKTFY"
+    ],
+    "MPIDE": [
+      "TKDAT",
+      "TKDES",
+      "TKITE",
+      "TKMED"
+    ],
+    "MPSOF": [
+      "TKDAT",
+      "TKIEK",
+      "TKITE"
+    ],
+    "MPDES": [
+      "TKDES"
+    ],
+    "MPWPS": [
+      "TKELT",
+      "TKGBS",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPIEE": [
+      "TKGBS",
+      "TKSAM"
+    ],
+    "MPPHS": [
+      "TKGBS",
+      "TKKEF",
+      "TKTEM",
+      "TKTFY"
+    ],
+    "MPAEM": [
+      "TKMAS",
+      "TKTFY"
+    ]
+  },
+  "metadata": {
+    "academic_year": "2024/2025",
+    "total_bachelor_programs": 16,
+    "total_master_programs": 38,
+    "extraction_timestamp": "2025-07-15T13:49:15.211439"
+  }
+}

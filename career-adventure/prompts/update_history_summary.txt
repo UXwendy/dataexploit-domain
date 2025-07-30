@@ -1,0 +1,26 @@
+Update the comprehensive history summary for this student. Focus on CONCRETE ACTIVITIES and MEMBERSHIPS they have participated in.
+
+STUDENT: {student_name} - {program}, Year {year}
+
+CURRENT HISTORY SUMMARY:
+{current_history}
+
+LATEST CHOICE:
+Type: {choice_type}
+Description: {choice_description}
+Situation: {situation}
+Character Impact: {character_implication}
+
+OTHER OPTIONS THEY CONSIDERED:
+{other_options}
+
+INSTRUCTIONS:
+- Write a flowing narrative that incorporates this new choice into their history
+- EXPLICITLY mention organizations joined, courses taken, companies applied to, internships completed
+- Keep it concise but comprehensive (3-5 sentences max)
+- Focus on concrete actions taken and experiences gained
+- Connect to previous experiences when relevant
+- Use third person perspective
+- Make it easy for an AI to understand what they've already done
+
+UPDATED HISTORY SUMMARY:

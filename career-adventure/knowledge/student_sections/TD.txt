@@ -1,0 +1,70 @@
+Technical Design Section Activities - AI Reference Guide
+
+Section Identity
+The Technical Design Section (Teknologsektionen Teknisk Design, TD-sektionen) is a student division for Industrial Design Engineering students at Chalmers. The section focuses on user-centered design, combining technical engineering with human-centered design principles. Known for interdisciplinary approach and creative problem-solving culture centered around design thinking and innovation.
+
+Section Committees
+
+TD-Styret (Section Board)
+Leads and organizes work within the section, represents all TD students to Chalmers and the Student Union. Manages daily operations and organizes section meetings where all TD students have voting rights.
+
+TDjobb (Career Committee)
+The section's career committee functioning as a link between TD students and working life. Organizes company visits, invites companies for lectures, and manages the annual TD-bucklan competition where teams of company representatives and students compete to creatively solve problems.
+
+prosex. (PR & Banquet Committee)
+The section's PR and banquet committee responsible for organizing activities and parties to lighten up studies. Arranges knytkalas (formal dinners), summer celebrations, post-exam parties, and sauna evenings.
+
+TDnollK (Reception Committee)
+The section's reception committee that shares responsibility with MnollK for new student reception. Ensures new students get the best possible start to their Chalmers experience.
+
+MnollK (Joint Reception Committee)
+Shared reception committee between Technical Design and Mechanical Engineering sections. Organizes city walks, parties, study evenings, and games to help new students learn about student life, Gothenburg, and each other.
+
+TDfoto (Photography Committee)
+Documents section events and activities through photography, capturing memories and section life for students to enjoy and reminisce about.
+
+SNTD (Study Committee)
+Academic committee responsible for educational monitoring and ensuring quality education for TD students. Represents student interests in academic matters.
+
+Major Section Events
+
+TD-bucklan (TD Trophy Competition)
+Annual competition where teams consisting of company representatives and students compete to solve problems as creatively as possible. Major networking event connecting students with industry.
+
+Reception (Mottagningen)
+Intensive introduction period for new students featuring city walks, parties, study evenings, and games. Shared responsibility between TDnollK and MnollK committees.
+
+Section Meetings (Sektionsmöten)
+Democratic meetings where all TD students have voting rights and participate in shaping the section's future and making important decisions.
+
+Summer Celebrations
+Annual summer festivities organized by prosex. to celebrate the end of academic year and bring students together.
+
+Post-Exam Parties
+Celebrations organized after exam periods to help students relax and socialize after intensive study periods.
+
+Section Traditions
+
+Knytkalas Culture
+Formal dining tradition organized by prosex. featuring traditional Swedish academic dinner customs and networking opportunities.
+
+Creative Problem-Solving
+Strong tradition of interdisciplinary collaboration and creative approaches to design challenges, reflected in competitions like TD-bucklan.
+
+Industry Integration
+Close collaboration with companies through projects, visits, and competitions, maintaining strong ties between academic work and professional practice.
+
+Design Thinking Approach
+Emphasis on user-centered design methodology and human-centered problem-solving in all section activities.
+
+Section Facilities Culture
+The section operates in spaces designed to promote creativity with project rooms, individual workplaces, and workshop access for model building. Flexible environment supporting easy communication, collaboration, and idea exchange. Direct access to workshops with tools for model building and rapid prototyping.
+
+Academic Culture
+Balances rigorous academic work in design engineering with active social engagement. Strong emphasis on practical application through company projects and real-world problem-solving. Integration of engineering and design disciplines throughout the education, with parallel and integrated learning approaches.
+
+Section Relationships
+Strong collaboration with Mechanical Engineering section through shared reception committee MnollK. Active partnerships with industry through TDjobb and various project courses. Interdisciplinary connections with other engineering sections through mixed project teams.
+
+Section Support
+TD-Styret provides overall guidance and representation for students. Study committee SNTD ensures academic quality and student perspective in educational matters. Strong peer support through small cohort size (approximately 45 students per year) and collaborative learning environment. Active alumni network supporting current students through industry connections.
